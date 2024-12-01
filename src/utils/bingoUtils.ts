@@ -17,4 +17,4 @@ export const generateBingoNumbers = () => {
   return numbers;
 };
 
-export const BINGO_LETTERS = ['B', 'I', 'N', 'G', 'O'];
+export const BINGO_LETTERS = ['F', 'O', 'L', 'L', 'Y'];
